@@ -1,6 +1,6 @@
 {
     "app_name": "Refresh UI",
     "author": "Runesc, Larama88",
-    "main_module": "src/main/python/main.py",
+    "main_module": "components/cli.py",
     "version": "1.0.0-Alpha1"
 }
